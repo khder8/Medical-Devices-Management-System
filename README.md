@@ -11,7 +11,7 @@ The Medical Devices Management System is a software solution designed to help ho
 
 ## Technologies Used
 - Programming Language: Python
-- GUI Framework: Python (e.g., Tkinter, PyQt, or another GUI library)
+- GUI Framework: Python ( PyQt)
 - Database: SQL Server
 
 ## Installation
